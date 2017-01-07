@@ -13,7 +13,7 @@ APP_NAME = subscribe_publish_sample
 APP_SRC_FILES = $(APP_NAME).c
 
 #IoT client directory
-IOT_CLIENT_DIR = ../../..
+IOT_CLIENT_DIR = ../..
 
 PLATFORM_DIR = $(IOT_CLIENT_DIR)/platform/linux/mbedtls
 PLATFORM_COMMON_DIR = $(IOT_CLIENT_DIR)/platform/linux/common
