@@ -1,0 +1,12 @@
+{
+    "thingName": "ras_pi",
+    "thingTypeName": "data_logger",
+    "attributePayload": {
+        "attributes": {
+            "mac": "b8:27:eb:2d:e3:e3",
+            "location": "my_desk",
+            "description": "protoytpe_AWS_IOT_data_logger"
+        },
+        "merge": true
+    }
+}

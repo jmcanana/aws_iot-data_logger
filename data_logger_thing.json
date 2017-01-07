@@ -1,0 +1,15 @@
+{
+    "thingName": "ras_pi_fc2de3e3",
+    "thingTypeName": "data_logger",
+    "attributePayload": {
+        "attributes": {
+            "model"         : "Pi-B-Rev-2.0-512Mb",
+            "serial_number" : "00000000fc2de3e3",
+            "fw_info"       : "",
+            "mac"           : "b8:27:eb:2d:e3:e3",
+            "location"      : "my_desk",
+            "description"   : "protoytpe_AWS_IOT_data_logger"
+        },
+        "merge": false
+    }
+}

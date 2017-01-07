@@ -1,0 +1,19 @@
+{
+    "thingTypeName": "data_logger",
+    "thingTypeProperties": {
+        "thingTypeDescription": "data loggers",
+        "attributes": [
+            "model",
+            "serial_number",
+            "fw_info",
+            "mac",
+            "options"
+        ],
+        "searchableAttributes": [
+            "model",
+            "serial_number",
+            "fw_info"
+        ]
+    }
+}
+
