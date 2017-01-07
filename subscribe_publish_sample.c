@@ -40,7 +40,7 @@
 /**
  * @brief Default cert location
  */
-char certDirectory[PATH_MAX + 1] = "../../../certs";
+char certDirectory[PATH_MAX + 1] = "../../certs";
 
 /**
  * @brief Default MQTT HOST URL is pulled from the aws_iot_config.h
